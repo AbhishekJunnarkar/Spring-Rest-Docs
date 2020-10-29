@@ -1,5 +1,5 @@
 # Spring-Rest-Docs
-Quick Tricks using spring REST docs for generating documentation for your REST API
+Reference material for using spring REST docs for generating documentation for your REST API
 
 ### Reference material
 -- https://docs.spring.io/spring-restdocs/docs/current/reference/html5/
