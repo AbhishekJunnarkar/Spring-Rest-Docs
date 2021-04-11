@@ -1,6 +1,23 @@
 # API Designer
 ## Introduction to API's
+ - Programmatic interface
+ - The business value of API's or API economy
+ - API's are digital enablers
+ - Business benefits of APIs
+ -  New Revenue, e.g. google maps and Twilio
+ -  Reach and Retention: APIs allow content and service privders to reach capative audiences where they spend their time
+ -  Faster partnerships e.g. KAYAK, GreenButton allaiance
+ -  Mobile and Omnichannel - e.g. amazon, Disney API
+ -  Interaction analysis by data driven insights e.g. Disney, Mastercard
+ - Outsourced Innovation e.g. netflix API used by XBox and Playstation
+ - Self-Service Integration - Amazon
+ - Organizational Agility - API first engineering philosphy along with microservices architecture
 ## The API 360 model
+### Focus on
+- Engagement and Usability
+- Scalability and Evolvability
+- Manageability and Security
+- Alignment and Usefulness
 ## API Styles
  -  Tunnel style(SOAP)
  -  URI Style (CRUD)
@@ -10,13 +27,20 @@
  -  gRPC
 ## Designing API's for developers
 ### Good Design
--- Functionality, usability and experience
+- Functionality, usability and experience
 ## Overcoming API Design obstacles
  -  Cost
  -  Scalability
  -  Security
 ## Architecting your API
-
+### Qualities of a Well-designed API
+#### Functional requirements
+-   Security
+-   Usability
+#### Non-functional requirements
+-   Scalability
+-   Reliability
+-   Testability
 ### Understanding the requirements of a well designed API
  - Security : The API is protected against attacks and misuse
  - Usability : The API is easy for developers for easy leverage
@@ -26,9 +50,9 @@
 
 ### Layered Architecture Style
  - Security Layer
- - Caching Layer
- - Presentation Layer
- - Orchestration Layer
+ - Caching Layer - Provides optimized response handling to offload backend application processing
+ - Presentation Layer - Provides a consumer centric view of the data or service that an API is exposing
+ - Orchestration Layer - Aggregates and composes data from multiple backend sources
 ### Steps to basic API design approach
  - Determine goals
  - Identify users
