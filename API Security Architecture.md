@@ -20,7 +20,7 @@
 - OAuth 2.0 is built for authorization, not authentication
 - OAuth 2.0 excels at delegated authorization like login with google, facebook or twitter
 ## Purpose of OAuth 2.0 as a framework for authorization
-- The OAuth 2.0 is an industry standard authorization protocol that permits a user to grant an applicaiton access t a protected resource without exposing th euser's password credentials
+- The OAuth 2.0 is an industry standard authorization protocol that permits a user to grant an applicaiton access to a protected resource without exposing th euser's password credentials
 - An OAuth access token is issued and accepted for user authrization at the API endpoint
 - e.g. https://abcbank/com/loin/oauth/authorize?client_id=4234234fsfsfrfdaada3qq423423423dadad&scope=transact_hist acct_bal acct_transf
 - In the above URL scope is also added to give the user access to a specific level of API's
